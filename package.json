@@ -13,8 +13,10 @@
   },
   "dependencies": {
     "gatsby": "^2.0.33",
+    "gatsby-plugin-transition-link": "^1.4.4",
     "react": "^16.5.1",
-    "react-dom": "^16.5.1"
+    "react-dom": "^16.5.1",
+    "react-spring": "^7.2.4"
   },
   "repository": {
     "type": "git",
